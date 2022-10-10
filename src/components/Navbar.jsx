@@ -9,7 +9,7 @@ export default function Navbar() {
                     <img src={logo} className='logo' />
                     <h2 className='nav--logo_text'>ReactFacts</h2>
                 </div>
-                <h3 className='nav_title'>React Course - Project 1</h3>
+                <h3 className='nav_title'>React - Project 1</h3>
             </nav>
         </header>
     )
